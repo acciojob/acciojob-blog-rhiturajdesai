@@ -1,1 +1,47 @@
 /*  your css code here. If applicable */
+body {
+  font-family: Arial, sans-serif;
+  margin: 40px;
+  background-color: #ffffff;
+  color: #000;
+}
+
+marquee h1 {
+  color: black;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+h2 a {
+  color: purple;
+  text-decoration: none;
+}
+
+h2 a:hover {
+  text-decoration: underline;
+}
+
+.article {
+  margin-top: 30px;
+}
+
+.article img {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.article h3 a {
+  color: blue;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.article h3 a:hover {
+  text-decoration: underline;
+}
+
+.article p {
+  font-size: 14px;
+  color: #333;
+  width: 70%;
+}
